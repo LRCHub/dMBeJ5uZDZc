@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "マイ フレンド",
+  "base_artist": "ZARD",
+  "createdAt": "2025-12-01T20:48:08.635454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイ フレンド",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_マイ_フレンド_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グッバイ・マイ・フレンド",
+      "artist": "牧野由依",
+      "has_synced": false,
+      "path": "select/02_グッバイ・マイ・フレンド_牧野由依.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マイ フレンド",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_マイ_フレンド_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マイ☆フレンド",
+      "artist": "AI",
+      "has_synced": false,
+      "path": "select/04_マイ☆フレンド_AI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オンリー・マイ・フレンド",
+      "artist": "GEMS COMPANY",
+      "has_synced": false,
+      "path": "select/05_オンリー・マイ・フレンド_GEMS_COMPANY.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グッバイ・マイ・フレンド",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/06_グッバイ・マイ・フレンド_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グッバイ･マイ･フレンド",
+      "artist": "Cecile Corbel",
+      "has_synced": true,
+      "path": "select/07_グッバイ・マイ・フレンド_Cecile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goodbye My Friend (グッバイ・マイ・フレンド)",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/08_Goodbye_My_Friend_(グッバイ・マイ・フレンド)_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マイ フレンド",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": true,
+      "path": "select/09_マイ_フレンド_SARD_UNDERGROUND.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マイ フレンド",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/10_マイ_フレンド_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マイ フレンド",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/11_マイ_フレンド_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Friend",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_My_Friend_SPYAIR.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "My Friend",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_02_My_Friend_SPYAIR.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MY FRIEND ～ありがとう～",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_03_MY_FRIEND_~ありがとう~_SPYAIR.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "My Friend",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_04_My_Friend_SPYAIR.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "マイ フレンド",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_05_マイ_フレンド_SPYAIR.txt"
+    }
+  ]
+}
